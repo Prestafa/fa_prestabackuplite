@@ -1,0 +1,25 @@
+/*
+*  pb-lite.css
+*/
+
+.pb-lite-prestafa-logo {
+    background: url("../../images/prestafa-logo.png");
+    width: 140px;
+    height: 40px;
+    margin: 5px 20px 20px 10px;
+}
+
+input.pb-lite-input-ltr, textarea.pb-lite-input-ltr {
+  direction: ltr;
+}
+
+input.pb-lite-input-rtl, textarea.pb-lite-input-rtl {
+  direction: rtl;
+}
+
+.pb-lite-pre {
+    margin: 15px 10px !important;
+    text-align: left;
+    direction: ltr;
+    font-size: 12px !important;
+}
